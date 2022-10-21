@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="001" tvg-name="SUN TV HD"
+https://suntvlive.akamaized.net/hls/live/2093448/SunTVHD/master.m3u8?hdnea=st=1666371456~exp=1666371756~acl=!*/2093448/SunTVHD/*~hmac=8361d3347daa6f60ef39fb9a31355373b158d73364e3507097dff49b0217c016&PlayBackId=2380847232&cid=14020&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+
+#EXTINF:-1 tvg-id="002" tvg-name="KTV HD"
+https://suntvlive.akamaized.net/hls/live/2093450/KTVHD/master.m3u8?hdnea=st=1666371503~exp=1666371803~acl=!*/2093450/KTVHD/*~hmac=84339277c52701cb5a3bd76ab7c0961d47371ae8d69db76c1cc40ddd99ab5fcc&PlayBackId=2380847232&cid=26566&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+
+#EXTINF:-1 tvg-id="003" tvg-name="SUN LIFE"
+https://suntvlive.akamaized.net/hls/live/2093454/SunLife/master.m3u8?hdnea=st=1666371571~exp=1666371871~acl=!*/2093454/SunLife/*~hmac=1a23c7ddbc6bf2b782f5d3f9f632f4cd32dc14344af520f9f27687a2b1919a10&PlayBackId=2380847232&cid=26569&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+
+#EXTINF:-1 tvg-id="004" tvg-name="KALAIGNAR TV"
+https://tv.googledrivelinks.com/play.php?c=Kalaignar_TV
+
+#EXTINF:-1 tvg-id="005" tvg-name="ZEE TAMIL"
+https://tv.googledrivelinks.com/play.php?c=Zee_Tamil
+
+#EXTINF:-1 tvg-id="006" tvg-name="JAYA TV HD"
+https://tv.googledrivelinks.com/play.php?c=Jaya_TV_HD
+
+#EXTINF:-1 tvg-id="007" tvg-name="COLORS TAMIL HD"
+https://tv.googledrivelinks.com/play.php?c=Colors_Tamil_HD
+
+#EXTINF:-1 tvg-id="008" tvg-name="POGO KIDS TAMIL"
+https://tv.googledrivelinks.com/play.php?c=Pogo_Tamil
+
+#EXTINF:-1 tvg-id="009" tvg-name="NICK TAMIL"
+https://tv.googledrivelinks.com/play.php?c=Nick_Tamil
+
+#EXTINF:-1 tvg-id="010" tvg-name="SONY SPORTS 6"
+https://tv.googledrivelinks.com/play.php?c=Six_HD
+
+#EXTINF:-1 tvg-id="011" tvg-name="SONY PIX"
+https://tv.googledrivelinks.com/play.php?c=Sony_Pix_HD
